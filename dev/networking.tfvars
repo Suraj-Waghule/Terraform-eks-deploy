@@ -1,9 +1,9 @@
 AWS_REGION = "ap-south-1"
 env        = "dev"
-Project    = "anisLearning"
+Project    = "surajtesting"
 additional_tags = {
-  Owner   = "anish"
-  project = "demo"
+  Owner   = "suraj"
+  project = "testing"
 }
 vpccidr     = "10.52.0.0/16"
 pubsub1cidr = "10.52.21.0/24"
