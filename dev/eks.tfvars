@@ -4,5 +4,5 @@ Project    = "surajtesting"
 additional_tags = {
   environment   =  "dev"
   Owner     = "suraj"
-  project   = "demo"
+  project   = "testing"
 }
