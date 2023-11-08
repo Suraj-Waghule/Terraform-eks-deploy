@@ -1,6 +1,6 @@
 AWS_REGION           = "ap-south-1"
 env                  = "dev"
-project              = "anisLearning"
+project              = "surajpractice"
 eks_cluster_name     = "dev-cluster"
 key_name             = "kubeadm"
 desired_capacity     = 1
@@ -14,7 +14,7 @@ spotInstanceType     = ["t3.medium", "t2.medium", "t3a.medium", "t3a.large", "t3
 
 additional_tags = {
   environment                       = "dev"
-  Owner                             = "Anis"
+  Owner                             = "suraj"
   role                              = "eksworkernode"
 }
 ingress_rules = [
