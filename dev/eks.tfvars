@@ -1,8 +1,8 @@
 AWS_REGION = "ap-south-1"
 env        = "dev"
-Project    = "anisLearning"
+Project    = "surajtesting"
 additional_tags = {
   environment   =  "dev"
-  Owner     = "anish"
+  Owner     = "suraj"
   project   = "demo"
 }
