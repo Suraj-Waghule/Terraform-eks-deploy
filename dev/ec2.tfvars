@@ -1,8 +1,8 @@
 AWS_REGION = "ap-south-1"
 env        = "dev"
-Project    = "anisLearning"
+Project    = "surajtesting"
 keyname    = "kubeadm"
 additional_tags = {
-  Owner     = "anish"
-  project   = "demo"
+  Owner     = "suraj"
+  project   = "testing"
 }
